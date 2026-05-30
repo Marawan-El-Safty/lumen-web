@@ -10,8 +10,8 @@ You need a Next.js company site (~12 pages) with clean routing, strong SEO, and
 a **dynamic Support section wired to your backend** — so rather than just
 describe it, I built a working version of exactly that and deployed it.
 
-**▶ Live demo:** [ADD-VERCEL-LINK]
-**▶ Code:** [ADD-GITHUB-LINK]
+**▶ Live demo:** https://lumen-web-phi.vercel.app
+**▶ Code:** https://github.com/Marawan-El-Safty/lumen-web
 
 What's in it, mapped to your brief:
 
